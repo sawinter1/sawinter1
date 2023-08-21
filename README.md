@@ -1,6 +1,6 @@
 ### Hi, I'm sawinter1!
 
-I'm a high school student, and I am learning Java.
+I'm a high school student.
 
 **Certifications:**
 
@@ -15,3 +15,7 @@ I'm a high school student, and I am learning Java.
 
 - Cybersecurity
 - Mobile App Development
+
+**Languages I'm studying:**
+
+- Java
